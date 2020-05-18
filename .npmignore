@@ -3,3 +3,16 @@ npm-debug.log
 .DS_Store
 example
 demo.gif
+.eslintrc
+.flowconfig
+.babelrc
+.git
+.gitignore
+yarn.lock
+collapsibleRegular.mov
+searchTitle.mov
+imageTitle.mov
+collapsibleRegular.gif
+searchTitle.gif
+imageTitle.gif
+WhatsApp
